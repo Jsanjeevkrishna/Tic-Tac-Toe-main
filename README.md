@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+
 # 🎮 Tic Tac Toe Web Game
 
 A responsive **Tic Tac Toe** game built with **HTML**, **Tailwind CSS**, and **JavaScript**, where you can play:
